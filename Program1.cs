@@ -22,7 +22,7 @@ class Graph
     private int id;
 
 
-    // default constructor, some code missing
+    // default constructor
     public Graph(string graphFile)
     {
         int u, v;
