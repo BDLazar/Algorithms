@@ -50,7 +50,6 @@ class Graph
         {
             adj[v] = z;
         }
-        //finish this
 
         // read the edges
         Console.WriteLine("Reading edges from text file");
